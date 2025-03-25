@@ -12,8 +12,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/22ADR020?theme=catppuccinMocha&font=Harmattan&ext=heatmap)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dharun69420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dharun69420&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dharun7405&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dharun7405&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharun69420&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
