@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫Pursuing Bachelor Of Technology Degree at Kongu Engineering College<br>🤖Artificial Intelligence enthusiast.<br>
+🏫Pursuing Bachelor Of Technology Degree at Kongu Engineering College<br>Back-end developer.<br>
 
 
 ## 🌐 Socials:
