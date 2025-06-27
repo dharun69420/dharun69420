@@ -52,8 +52,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dharun7405&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dharun7405&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharun7405&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br>
+<div align=center> 
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dharun7405&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jesinth's Most Used Languages" />
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+<br>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=dharun7405&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
