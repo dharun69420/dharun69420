@@ -2,14 +2,10 @@
 🏫Pursuing Bachelor Of Technology Degree at Kongu Engineering College<br>Back-end developer.<br>
 
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DHARUNSR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharunsudha74@gmail.com) 
 
 # 💻 Tech Stack:
-
-
 <div align="center">
 
   ### 💻 Programming Languages  
@@ -88,8 +84,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dharun7405&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
